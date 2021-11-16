@@ -1,5 +1,7 @@
 import os
 
+Website = os.getenv("Website")
+
 CHANNELID1 = os.getenv("ChannelId1") #First channel id
 
 CHANNELID2 = os.getenv("ChannelId2") #Second channel id
