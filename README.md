@@ -21,7 +21,7 @@
 
 <p align="center">th: เร็วๆนี้!</p>
 
-> If you are having problems with bots. You can come and ask me at my [discord server](https://bit.ly/ZacDiscord)
+> If you are having problems making the bot. You can come and ask me at my [discord server](https://bit.ly/ZacDiscord)
 
 <h1 align="center">Support my youtube channel</h1>
 
