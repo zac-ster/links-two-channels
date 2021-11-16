@@ -13,4 +13,3 @@ th: เพื่อให้เข้าใจง่ายที่สุดค�
 <a href="https://heroku.com/deploy?template=https://github.com/zac-ster/links-two-channels">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
-[![Run on Repl.it](https://repl.it/badge/zac-ster/links-two-channels)](https://repl.it/github/zac-ster/links-two-channels)
