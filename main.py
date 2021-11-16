@@ -9,7 +9,7 @@ bot = coms.Bot(command_prefix=">", intents=discord.Intents.all())
 @bot.event
 
 async def on_ready():
-  await bot.change_presence(activity=discord.Game(name="Made by ȥαƈ#0249"))
+  await bot.change_presence(activity=discord.Game(name="Made by ȥαƈ#0249")) #If you're going to change the stats. Please leave these letters here just to credit me.
   
   print("Ready!")
   print(f"Website: {config.Website},")
