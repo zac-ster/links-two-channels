@@ -21,6 +21,8 @@
 
 <p align="center">th: เร็วๆนี้!</p>
 
+> If you are having problems with bots. You can come and ask me at my [discord server](https://bit.ly/ZacDiscord)
+
 <h1 align="center">Support my youtube channel</h1>
 
 [![Sub to zac](https://i.imgur.com/XP5ZEl8_d.webp?maxwidth=1280&shape=thumb&fidelity=medium)](https://youtube.com/channel/UC4Oda0x-9wTXXt2IWbLmZag?sub_confirmation=1)
