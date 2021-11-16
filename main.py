@@ -35,6 +35,6 @@ async def on_message(msg):
 
           await webhook1.send(content=f"{msg.content}", username=msg.author.name, avatar_url=msg.author.avatar_url)
 
-if connfig.Website == True:
+if connfig.Website == 'true':
   keep_alive.keep_alive()
 bot.run(config.token)
