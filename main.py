@@ -1,5 +1,3 @@
-# There are nothing to do here.
-#Go to config.py to setup everything
 from aiohttp import ClientSession
 
 import discord, os, keep_alive, config
