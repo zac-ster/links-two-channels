@@ -1,0 +1,7 @@
+{
+  "name": "Links two channels",
+  "description": "",
+  "repository": "https://github.com/zac-ster/links-two-channels",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["python", "flask", "webhook"]
+}
