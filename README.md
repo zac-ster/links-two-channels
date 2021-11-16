@@ -5,7 +5,7 @@
 
 <h1 align="center">How's it works?</h1>
 
-<p align="center">en: To make it the easiest to understand is. The bot will look at the messages sent in the first channel, then the bot will then send the same message to the second channel using webhook. and do the same for the second channel.</p>
+<p align="center">en: To make it the easiest to understand is. The bot will look at the messages sent in the first channel, then the bot will send the same message to the second channel using webhook. and do the same for the second channel.</p>
 
 <p align="center">th: เพื่อให้เข้าใจง่ายที่สุดคือ บอทจะดูข้อความที่ส่งในช่องแรก จากนั้นบอทจะส่งข้อความเดียวกันไปยังช่องที่สองโดยใช้เว็บฮุค และทำเช่นเดียวกันกับช่องที่สอง.</p>
 
