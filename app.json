@@ -4,6 +4,12 @@
   "repository": "https://github.com/zac-ster/links-two-channels",
   "logo": "https://avatars.githubusercontent.com/u/60801799?s=120&v=4",
   "keywords": ["python", "flask", "webhook"],
+  "image": "heroku/python",
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ],
   "env": {
     "ChannelId1": {
       "description": "First channel id.",
