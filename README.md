@@ -10,3 +10,6 @@ en: To make it the easiest to understand is. The bot will look at the messages s
 th: เพื่อให้เข้าใจง่ายที่สุดคือ บอทจะดูข้อความที่ส่งในช่องแรก จากนั้นบอทจะส่งข้อความเดียวกันไปยังช่องที่สองโดยใช้เว็บฮุค และทำเช่นเดียวกันกับช่องที่สอง
 
 <h1 align="center">Create the bot</h1>
+<a href="https://heroku.com/deploy?template=https://github.com/zac-ster/links-two-channels">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
