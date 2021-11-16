@@ -3,7 +3,11 @@
   "description": "A simple discord bot that use webhook to send message from a channel to the other channel",
   "repository": "https://github.com/zac-ster/links-two-channels",
   "logo": "https://avatars.githubusercontent.com/u/60801799?s=120&v=4",
-  "keywords": ["python", "flask", "webhook"],
+  "keywords": [
+    "python", 
+    "flask", 
+    "webhook"
+  ],
   "image": "heroku/python",
   "buildpacks": [
     {
@@ -31,5 +35,5 @@
       "description": "Your bot's token",
       "required": "true"
     }
-  },
+  }
 }
