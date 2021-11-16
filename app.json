@@ -5,12 +5,24 @@
   "logo": "https://avatars.githubusercontent.com/u/60801799?s=120&v=4",
   "keywords": ["python", "flask", "webhook"],
   "env": {
-    "": {
-      "description": "A secret key for verifying the integrity of signed cookies.",
+    "ChannelId1": {
+      "description": "First channel id.",
       "required": "true"
     },
-    "": {
-      "description": "The number of processes to run.",
+    "ChannelId2": {
+      "description": "Second channel id.",
+      "required": "true"
+    },
+    "Webhook1": {
+      "description": "First channel webhook url.",
+      "required": "true"
+    },
+    "Webhook2": {
+      "description": "Second channel webhook url.",
+      "required": "true"
+    },
+    "Token": {
+      "description": "Your bot's token",
       "required": "true"
     }
   },
