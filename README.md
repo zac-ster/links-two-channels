@@ -13,7 +13,7 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zac-ster/links-two-channels)
 [![Run on repl.it](https://repl.it/badge/github/zac-ster/links-two-channels)](https://repl.it/github/zac-ster/links-two-channels}&ref=button)
-> If you're hosting the bot in heroku, I suggest you delete the code at line 36 in main.py
+> If you're hosting the bot in heroku, I suggest you to set 'Website' environment to anything that's not 'true'.
 
 <h1 align="center">Tutorial</h1>
 
