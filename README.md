@@ -10,6 +10,7 @@ en: To make it the easiest to understand is. The bot will look at the messages s
 th: เพื่อให้เข้าใจง่ายที่สุดคือ บอทจะดูข้อความที่ส่งในช่องแรก จากนั้นบอทจะส่งข้อความเดียวกันไปยังช่องที่สองโดยใช้เว็บฮุค และทำเช่นเดียวกันกับช่องที่สอง
 
 <h1 align="center">Create the bot</h1>
-<a href="https://heroku.com/deploy?template=https://github.com/zac-ster/links-two-channels">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-</a>
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zac-ster/links-two-channels)
+[![Run on repl.it](https://repl.it/badge/github/zac-ster/links-two-channels)](https://repl.it/github/zac-ster/links-two-channels}&ref=button)
+[![Sub to zac](https://i.imgur.com/XP5ZEl8_d.webp?maxwidth=640&shape=thumb&fidelity=medium)](https://youtube.com/channel/UC4Oda0x-9wTXXt2IWbLmZag)
