@@ -9,6 +9,8 @@ bot = coms.Bot(command_prefix=">", intents=discord.Intents.all())
 @bot.event
 
 async def on_ready():
+  await bot.change_presence(activity=discord.Game(name="Made by ȥαƈ#0249"))
+  
   print("Ready!")
 
 @bot.event
