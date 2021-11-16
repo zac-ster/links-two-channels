@@ -35,5 +35,5 @@ async def on_message(msg):
 
           await webhook1.send(content=f"{msg.content}", username=msg.author.name, avatar_url=msg.author.avatar_url)
 
-keep_alive.keep_alive()
+keep_alive.keep_alive() #Remove this if you're hosting the bot in heroku
 bot.run(config.token)
