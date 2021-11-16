@@ -1,6 +1,6 @@
 import os
 
-Website = os.getenv("Website")
+Website = os.getenv("Website") #Set to 'true' if you're hosting bot in replit and if you're hosting your bot in heroku set it to anything else except 'true'.
 
 CHANNELID1 = os.getenv("ChannelId1") #First channel id
 
