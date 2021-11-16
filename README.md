@@ -12,7 +12,7 @@
 <h1 align="center">Create the bot</h1>
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zac-ster/links-two-channels)
-[![Run on repl.it](https://repl.it/badge/github/zac-ster/links-two-channels)](https://replit.com/github/zac-ster/links-two-channels)
+[![Run on repl.it](https://repl.it/badge/github/zac-ster/links-two-channels)](https://replit.com/@ZackyBotDev/LinkTwoChannels)
 > If you're hosting the bot in heroku, I suggest you to set 'Website' environment to anything that's not 'true'.
 
 <h1 align="center">Tutorial</h1>
