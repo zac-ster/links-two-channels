@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./images/webhook.png" width="30px">Links two channels<img src="./images/webhook.png" width="30px"></h1>
+<h1 align="center"><img src="./images/webhook.png" width="30px">Links two channel's chat<img src="./images/webhook.png" width="30px"></h1>
 
 <p align="center">en: A simple discord bot that use webhook to send message from a channel to the other channel.</p>
 <p align="center">th: บอทง่ายๆที่ใช้เว็บฮุคเพื่อส่งข้อความจากช่องหนึ่งไปยังอีกช่องหนึ่ง.</p>
