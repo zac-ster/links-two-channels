@@ -8,4 +8,4 @@
 
 - The credits should not be changed.
 
-- Now have fun with your bot ![pog](https://cdn.discordapp.com/emojis/907867592708997161.png?v=1&size=32)
+- Now have fun with your bot [![pog](https://cdn.discordapp.com/emojis/907867592708997161.png?v=1&size=32)](https://youtu.be/g9TNY75jhcs)
