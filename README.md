@@ -17,9 +17,9 @@
 
 <h1 align="center">Tutorial</h1>
 
-<p align="center">en: Coming soon!</p>
+<p align="center">Click on the image to go to the tutorial video.</p>
 
-<p align="center">th: เร็วๆนี้!</p>
+![Tutorial](<img src="./images/VideoThumbnail.jpeg">)
 
 > If you are having problems making the bot. You can come and ask me at my [discord server](https://bit.ly/ZacDiscord)
 
