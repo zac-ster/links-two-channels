@@ -23,6 +23,12 @@
 
 > If you are having problems making the bot. You can come and ask me at my [discord server](https://bit.ly/ZacDiscord)
 
+<h1 align="center">Why did i code this bot?</h1>
+
+<p align="center">en: First of all, I just want to make a simple modmail bot.</p>
+
+<p align="center">th: อย่างแรกเลยคือ ผมแค่อยากทำบอท 'modmail' ง่ายๆตัวนึง.</p>
+
 <h1 align="center">Support my youtube channel</h1>
 
 [![Sub to zac](https://i.imgur.com/XP5ZEl8_d.webp?maxwidth=1280&shape=thumb&fidelity=medium)](https://youtube.com/channel/UC4Oda0x-9wTXXt2IWbLmZag?sub_confirmation=1)
